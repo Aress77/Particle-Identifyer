@@ -1,5 +1,5 @@
 # For interns
-## 1. Create virtual environments
+## 1. Create virtual environments (Optional)
 
 ## 2. in terminal paste the following
 
