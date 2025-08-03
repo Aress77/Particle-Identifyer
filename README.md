@@ -7,5 +7,7 @@ pip install matplotlib
 pip install opencv-python
 
 # 3. Run with 
-/Users/ahri/Documents/Summer\ OPALS/Group\ 18/venv/bin/python "/Users/ahri/Documents/Summer OPALS/Group 18/ImageQuant.py"
+python/python3 ImageQuant.py
 
+# 4. Find path with
+Right click on the folder then click copy path
